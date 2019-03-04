@@ -20,7 +20,7 @@ By implementing design patterns, you can write code that is crafted for efficien
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
+<br/>
 This course is for developers and software architects with a basic working knowledge of JavaScript who are interested in acquiring a deeper understanding of how to design and develop enterprise-level Node.js applications. The intended audience is expected to have basic knowledge of Node.js and the ecosystem, good command over JavaScript, and intermediate working skills on Linux/MacOS.
 ### Technical Requirements
 <br/>
